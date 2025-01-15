@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Kỳ Tuti | Người Sáng Lập Và Điều Hành Net88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Kỳ Tuti <https://net88.fm/ceo-ky-tuti/>`_ tên thật Nguyễn Minh Kỳ (sinh ngày 01/08/1992), là một nhà lãnh đạo trẻ nổi bật trong ngành chơi game trực tuyến. Với nền tảng giáo dục từ gia đình và bằng tốt nghiệp ngành Công nghệ Thông tin tại Đại học Công nghệ Thông tin TP.HCM, ông đã kết hợp kiến thức công nghệ và khả năng phân tích thị trường để sáng lập Net88 – một thương hiệu uy tín hàng đầu. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ông tập trung vào đổi mới công nghệ, áp dụng trí tuệ nhân tạo và công nghệ đám mây để tối ưu hóa trải nghiệm người dùng và đảm bảo an ninh cao nhất. Với chiến lược phát triển bền vững và mở rộng thị trường quốc tế, CEO Kỳ Tuti cam kết đưa Net88 trở thành biểu tượng hàng đầu trong ngành chơi game trực tuyến toàn cầu.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 35F Đ. Võ Văn Vân, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0805413122. 
 
-.. toctree::
+Email: contact@net88.fm. 
 
-   usage
-   api
+Website: https://net88.fm/ceo-ky-tuti/ 
+
+#kytuti #ceokytuti #ceokytuti_net88
